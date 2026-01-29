@@ -51,6 +51,8 @@ The same analytical framework can be adapted to transaction monitoring, anomaly 
 - `/notebooks/` – Reproducible analysis and modeling code
 - `/report/` – Detailed case study report with visualizations and conclusions
 - `/data/` – Data availability notes
+- [Analysis Notebook](notebooks/madrid_real_estate_investment_analysis.ipynb)
+- [Case Study Report (PDF)](report/madrid_real_estate_investment_case_study.pdf)
 
 
 
